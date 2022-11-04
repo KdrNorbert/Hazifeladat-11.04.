@@ -85,3 +85,6 @@ h2{
     padding: 20px 20px;
     
 }
+a:hover{
+    color:red;
+}
