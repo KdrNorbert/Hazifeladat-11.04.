@@ -56,10 +56,10 @@ li{
 ul{
     text-decoration: none;
 }
-div .news p{
+.news p{
     background-color: white;
-    padding: 20px 20px;
-    margin: 20px 20px;
+    padding-top: 20px;
+    margin: 20px;
 }
 
 #image1{
@@ -83,5 +83,5 @@ h2{
     font-size: 2rem;
     color:white;
     padding: 20px 20px;
-
+    
 }
