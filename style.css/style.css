@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    background: url('../pics/bg-body.jpg');
+    max-width: 600px;
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div #head{
+    background: url('../pics/bg-header.jpg') top center no-repeat;
+    background-size: cover;
+    height: 150px;
+    padding-top: 20px;
+    color: white;
+    font-size: 1.5rem;
+    padding-left: 20px;
+}
+
+#footer-bal{
+    text-align: left;
+}
+#footer-jobb{
+    text-align: right;
+    text-overflow: inherit;
+}
+.nav{
+    
+    width: 100px;
+    height: 850px;
+    background-color: rgb(51, 48, 48);
+    color: white;
+    float: left;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 115px;
+    text-decoration: none;
+}
+li{
+    
+    border-bottom: dashed 1px white;
+    padding-bottom: 10px;
+    list-style-type: none;
+    height: 30px;
+    width: 80px;
+    padding-top: 5px;
+    color:white;
+}
+ul{
+    text-decoration: none;
+}
+div .news p{
+    background-color: white;
+    padding: 20px 20px;
+    margin: 20px 20px;
+}
+
+#image1{
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#image2{
+    float: left;
+    padding-left: 20px;
+}
+li a{
+    text-decoration: none;
+    color:white
+}
+.footer{
+    padding-top: 10px;
+}
+h2{
+    background-color: green;
+    font-size: 2rem;
+    color:white;
+    padding: 20px 20px;
+
+}
